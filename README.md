@@ -57,7 +57,7 @@ mission = "Harnessing technology for human progress and sustainable futures"
 
 ## 📫 Connect With Me
 Let's create data-driven solutions that make a difference! Reach out to explore how we can transform complex challenges into powerful innovations.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bourzik-abdelelah) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bourzik) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Borcodex) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bourzik-abdelelah) [![X]() [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Borcodex) 
 
 ---
 
