@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm Abdelelah, a **Lead AI & Data Engineer** who transforms raw data into intelligent solutions. My journey spans the automotive, telecommunications, and public-sector regulatory landscapes, where I've helped build bridges between complex data architectures and cutting-edge AI applications.
+I'm Abdelelah, a Lead AI & Data Engineer working where data engineering meets AI. I enjoy the unglamorous part of it, getting the data right. I've done that in automotive, telecommunications, and public-sector regulation, and I'm still learning something new on every project, and speaking several languages has shaped how I think about building things for real people.
 
 ## 💡 What Drives Me
 
