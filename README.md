@@ -4,7 +4,7 @@
   <b>Abdelelah Bourzik</b><br/>
   عبد الإله بورزيق<br/>
   ⴰⴱⴷⴻⵍⵉⵍⴰⵀ ⴱⵓⵔⵣⵉⴽ<br/>
-  🌐 <a href="https://www.bourzik.com">www.bourzik.com</a>
+
 </p>
 
 > *"Data is the new electricity - it powers everything we build in the digital era."*
